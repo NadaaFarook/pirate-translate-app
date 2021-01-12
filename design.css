@@ -1,0 +1,35 @@
+*{
+    font-family: 'Nanum Pen Script', cursive;
+}
+body{
+    height: 100vh;
+    background-color: rgb(32, 32, 32);
+color: #ff6358;
+}
+h1{
+margin: 40px 15px;
+font-size: 40px;
+}
+.area{
+width: 50vw;
+height: 10vh;
+border: 1px solid grey;
+border-radius: 5px;
+padding: 15px;
+margin: 15px;
+background: #ff6358;
+font-size: xx-large;
+}
+button{
+border: 1px solid grey;
+border-radius: 5px;
+padding: 10px 30px;
+margin: 15px;
+font-size: larger;
+background: black;
+color: red;
+font-size: x-large;
+}
+footer p{
+font-size: 30px;
+}
